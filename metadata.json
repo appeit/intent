@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Intent Recognition Engine",
+  "description": "An advanced chatbot intent recognition system based on a specific logic flow, featuring prompt versioning and local storage rollback capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
